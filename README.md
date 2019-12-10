@@ -33,5 +33,5 @@ Module 6 - Advanced Geovisualization in Python
 * Interactive Mapping with Bokeh
 * Adding a Web Basemap using Folium
 
-Week 7
+Module 7
 * Final project
