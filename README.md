@@ -1,5 +1,5 @@
-# ASU-GIS-322-Fall
-This repositoray contains the learning materials for GIS 322: Programming Principals II (Fall 2019).
+# ASU-GIS-322
+This repositoray contains the learning materials for GIS 322: Programming Principals II.
 Designed by Ziqi Li (liziqi1992@gmail.com) and Wenwen Li (wenwen@asu.edu), School of Geographical Sciences and Urban Planning, Arizona State University.
 
 Module 0: Welcome and Start Here
